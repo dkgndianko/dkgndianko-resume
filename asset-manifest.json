@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/resume-generator/static/css/main.71173dcf.chunk.css",
-    "main.js": "/resume-generator/static/js/main.7459c567.chunk.js",
-    "main.js.map": "/resume-generator/static/js/main.7459c567.chunk.js.map",
-    "runtime-main.js": "/resume-generator/static/js/runtime-main.5100b62f.js",
-    "runtime-main.js.map": "/resume-generator/static/js/runtime-main.5100b62f.js.map",
-    "static/js/2.6b4af20d.chunk.js": "/resume-generator/static/js/2.6b4af20d.chunk.js",
-    "static/js/2.6b4af20d.chunk.js.map": "/resume-generator/static/js/2.6b4af20d.chunk.js.map",
-    "static/js/3.f2ec9917.chunk.js": "/resume-generator/static/js/3.f2ec9917.chunk.js",
-    "static/js/3.f2ec9917.chunk.js.map": "/resume-generator/static/js/3.f2ec9917.chunk.js.map",
-    "index.html": "/resume-generator/index.html",
-    "static/css/main.71173dcf.chunk.css.map": "/resume-generator/static/css/main.71173dcf.chunk.css.map",
-    "static/js/2.6b4af20d.chunk.js.LICENSE.txt": "/resume-generator/static/js/2.6b4af20d.chunk.js.LICENSE.txt"
+    "main.css": "/dkgndianko-resume/static/css/main.71173dcf.chunk.css",
+    "main.js": "/dkgndianko-resume/static/js/main.bf1f824c.chunk.js",
+    "main.js.map": "/dkgndianko-resume/static/js/main.bf1f824c.chunk.js.map",
+    "runtime-main.js": "/dkgndianko-resume/static/js/runtime-main.0b90afba.js",
+    "runtime-main.js.map": "/dkgndianko-resume/static/js/runtime-main.0b90afba.js.map",
+    "static/js/2.6b4af20d.chunk.js": "/dkgndianko-resume/static/js/2.6b4af20d.chunk.js",
+    "static/js/2.6b4af20d.chunk.js.map": "/dkgndianko-resume/static/js/2.6b4af20d.chunk.js.map",
+    "static/js/3.f2ec9917.chunk.js": "/dkgndianko-resume/static/js/3.f2ec9917.chunk.js",
+    "static/js/3.f2ec9917.chunk.js.map": "/dkgndianko-resume/static/js/3.f2ec9917.chunk.js.map",
+    "index.html": "/dkgndianko-resume/index.html",
+    "static/css/main.71173dcf.chunk.css.map": "/dkgndianko-resume/static/css/main.71173dcf.chunk.css.map",
+    "static/js/2.6b4af20d.chunk.js.LICENSE.txt": "/dkgndianko-resume/static/js/2.6b4af20d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5100b62f.js",
+    "static/js/runtime-main.0b90afba.js",
     "static/js/2.6b4af20d.chunk.js",
     "static/css/main.71173dcf.chunk.css",
-    "static/js/main.7459c567.chunk.js"
+    "static/js/main.bf1f824c.chunk.js"
   ]
 }
